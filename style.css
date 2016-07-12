@@ -5,7 +5,15 @@ h {
 p {
     font-size: 24px;
     font-family: Helvetica;
+    margin: 20px;
+    border: 2px;
+}
+p2 {
+     margin: 20px;
 }
 p3 {
-    color: red;
+    margin: 20px;
+}
+p4 {
+    margin: 20px;
 }
