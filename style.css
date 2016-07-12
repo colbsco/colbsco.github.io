@@ -1,28 +1,33 @@
 h {
     color: blue;
     font-size: 48px;
+    justify-content: center;
 }
 p1 {
     font-size: 24px;
     font-family: Helvetica;
     margin-left: 20px;
     border: 2px;
+    justify-content: center;
 }
 p2 {
     font-size: 24px;
     font-family: Helvetica;
     margin-left: 20px;
     border: 2px;
+    justify-content: center;
 }
 p3 {
     font-size: 24px;
     font-family: Helvetica;
     margin-left: 20px;
     border: 2px;
+    justify-content: center;
 }
 p4 {
     font-size: 24px;
     font-family: Helvetica;
     margin-left: 20px;
     border: 2px;
+    justify-content: center;
 }
