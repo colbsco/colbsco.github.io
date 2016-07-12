@@ -1,7 +1,8 @@
-h {
+h1 {
     color: blue;
     font-size: 48px;
         text-align: center;
+    margin-bottom: 200px;
 }
 p1 {
     font-size: 24px;
@@ -33,6 +34,4 @@ p4 {
     border: 2px;
 }
 
-u1 {
-    margin-left: 200px;
-}
+
