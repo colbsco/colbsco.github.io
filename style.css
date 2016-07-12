@@ -10,6 +10,7 @@ p1 {
     margin-left: 200px;
     margin-bottom: 200px;
     border: 2px;
+    padding: 50px;
 }
 p2 {
     font-size: 24px;
@@ -17,6 +18,8 @@ p2 {
     margin-left: 200px;
     margin-bottom: 200px;
     border: 2px;
+    padding: 50px;
+
 }
 p3 {
     font-size: 24px;
@@ -24,6 +27,8 @@ p3 {
     margin-left: 200px;
     margin-bottom: 200px;
     border: 2px;
+    padding: 50px;
+
 }
 p4 {
     font-size: 24px;
@@ -31,6 +36,8 @@ p4 {
     margin-left: 200px;
     margin-bottom: 200px;
     border: 2px;
+    padding: 50px;
+
 }
 nav li {
     margin-left: 200px;
