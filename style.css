@@ -1,9 +1,9 @@
 h {
-    color: black;
+    color: blue;
+    font-size: 48px;
 }
 p {
-    color:blue;
-    font-size: 48px;
+    font-size: 24px;
     font-family: Helvetica;
 }
 p3 {
