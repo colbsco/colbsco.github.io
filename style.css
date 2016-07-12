@@ -39,8 +39,15 @@ p4 {
     padding: 50px;
 
 }
-p5 {margin-top: 200 px;}
-p6 (margin-top: 200 px;}
+p5 {font-size: 24px;
+    margin-top: 200 px;
+    
+}
+
+p6 {font-size: 24px;
+    margin-top: 200 px;
+    
+}
 
 
 
